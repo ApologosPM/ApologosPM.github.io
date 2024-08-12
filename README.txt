@@ -1,32 +1,19 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Portfolio
 
+Projects:
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+	1. FAO - An analysis of data coming from the health department
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+	2. SPAM or HAM - A spam email detector
 
-(* = not included)
+	3. Netfloox or Webfloox - a mockup of a recommendation algorithm for films and series using IMDB, alongside a fully functioning app.
 
-AJ
-aj@lkn.io | @ajlkn
+	4. Vocal Weather - Speech to text weather app
 
+	5. OCR (Optical Character Recognition) - an image to text app specialized in managing invoices for a business.
 
-Credits:
+	6. Emobot - A chatbot that can detect and react to the user's emotions
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	7. Dog or Cat ? - Using deep learning Convolutional Neural Network (CNN) we learn to distinguish a cat from a dog
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+	8. MOOC - Try and predict if a student will pass or not in an online course
